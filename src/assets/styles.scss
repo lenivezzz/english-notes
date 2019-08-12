@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/bootstrap-reboot";
+@import "~bootstrap/scss/bootstrap-grid";
+@import "~bootstrap/scss/forms";
+@import "~bootstrap/scss/navbar";
+@import "~bootstrap/scss/nav";
+@import "~bootstrap/scss/alert";
+@import "~bootstrap/scss/utilities";
+
+main {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.logo {
+  width: 1.25rem;
+}
