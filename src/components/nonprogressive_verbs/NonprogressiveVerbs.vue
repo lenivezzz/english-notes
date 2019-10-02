@@ -1,7 +1,8 @@
 <template>
     <div>
+        <h1>Non progressive verbs</h1>
         <div class="row pb-4">
-            <div class="col-md-10 offset-md-1">
+            <div class="col-md-12">
                 <input class="form-control form-control-lg" v-model="search" placeholder="Search..." />
             </div>
         </div>
