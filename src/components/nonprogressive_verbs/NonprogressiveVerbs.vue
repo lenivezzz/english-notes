@@ -6,9 +6,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-1"></div>
-            <div class="col-sm-2" v-for="(item, index) in filteredItems" v-bind:key="index">
-                <ul class="list-group">
+            <div class="col-sm" v-for="(item, index) in filteredItems" v-bind:key="index">
+                <ul class="list-group mb-3">
                     <li class="list-group-item list-group-item-dark">
                         {{item.category}}
                     </li>
