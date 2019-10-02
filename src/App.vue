@@ -6,8 +6,11 @@
       </router-link>
       <div class="" id="navbarNav">
         <ul class="navbar-nav">
-          <li class="nav-item active">
-            <router-link class="nav-link" to="/irregular-verbs">Irregular verbs<span class="sr-only">(current)</span></router-link>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/irregular-verbs">Irregular verbs</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/nonprogressive-verbs">Non progressive verbs</router-link>
           </li>
         </ul>
       </div>

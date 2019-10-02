@@ -1,0 +1,71 @@
+[
+  {
+    "category": "Feelings/Emotions",
+    "words": [
+      "Care",
+      "Envy",
+      "Fear",
+      "Feel",
+      "Hate",
+      "Hope",
+      "Like",
+      "Love",
+      "Need",
+      "Prefer",
+      "Want",
+      "Wish"
+    ]
+  },
+  {
+    "category": "Senses",
+    "words": [
+      "Hear",
+      "See",
+      "Smell",
+      "Taste"
+    ]
+  },
+  {
+    "category": "Belongings",
+    "words": [
+      "Belong",
+      "Have",
+      "Own",
+      "Possess"
+    ]
+  },
+  {
+    "category": "Thinking",
+    "words": [
+      "Doubt",
+      "Forget",
+      "Imagine",
+      "Know",
+      "Mean",
+      "Realize",
+      "Recognize",
+      "Remember",
+      "Suppose",
+      "Think",
+      "Understand"
+    ]
+  },
+  {
+    "category": "Other",
+    "words": [
+      "Appear",
+      "Consist",
+      "Contain",
+      "Cost",
+      "Depend",
+      "Deserve",
+      "Incude",
+      "Look",
+      "Matter",
+      "Owe",
+      "Resamble",
+      "Seem",
+      "Weight"
+    ]
+  }
+]

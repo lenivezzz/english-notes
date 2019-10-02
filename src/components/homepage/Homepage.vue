@@ -5,10 +5,13 @@
                 <img v-bind:src="logo_src" class="d-block" alt="Logo"/>
             </div>
         </div>
-        <ul class="list-group list-group-horizontal justify-content-center list-group-flush">
+        <ul class="list-group list-group-horizontal justify-content-center">
            <li class="list-group-item">
               <router-link to="/irregular-verbs">Irregular verbs</router-link>
            </li>
+            <li class="list-group-item">
+                <router-link to="/nonprogressive-verbs">Non progressive verbs</router-link>
+            </li>
         </ul>
     </div>
 </template>
