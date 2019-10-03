@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="row mb-3">
-            <div class="col-sm-2 offset-5">
+            <div class="col-sm-2 offset-sm-5">
                 <img v-bind:src="logo_src" class="d-block" alt="Logo"/>
             </div>
         </div>
